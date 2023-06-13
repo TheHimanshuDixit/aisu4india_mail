@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.3",
+    "nodemon": "^2.0.22",
+    "path": "^0.12.7"
+  },
+  "name": "aisu4india_mail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheHimanshuDixit/aisu4india_mail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheHimanshuDixit/aisu4india_mail/issues"
+  },
+  "homepage": "https://github.com/TheHimanshuDixit/aisu4india_mail#readme",
+  "description": ""
+}
